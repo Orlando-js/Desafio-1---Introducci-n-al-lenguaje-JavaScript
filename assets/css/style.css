@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins';
+}
+
+
+/*SECCION HEADER*/
+header {
+    background-color: #5C6D81;
+    width: 100%;
+    padding: 10px 50px;
+}
+
+main {
+    margin: 0px 20px;
+}
+
+nav ol  {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color: white;
+}
+
+nav ol a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+}
+
